@@ -1,9 +1,8 @@
 # 2022_JobSeeker_Trend
 
-### 데이콘 **[구직자를 위한 기업 트렌드 시각화 경진 대회](https://dacon.io/competitions/official/235866/overview/description)** 장려상 수상작
+### 데이콘 **[구직자를 위한 기업 트렌드 시각화 경진 대회](https://dacon.io/competitions/official/235866/overview/description)** 장려상 수상작(갱수기네)
 
 ---
-
 **[시각화 결과](https://public.tableau.com/views/_03_16443067025420/_zip?:language=ko-KR&:retry=yes&:display_count=n&:origin=viz_share_link)**
 ![image](https://user-images.githubusercontent.com/93170319/154000898-4585942b-0030-4824-8d0e-a7f2fee25175.png)
 ![image](https://user-images.githubusercontent.com/93170319/154000993-00bb4217-8b42-4359-bf35-26b6a07b2269.png)
