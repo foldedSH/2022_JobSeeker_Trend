@@ -5,6 +5,9 @@
 ---
 
 **[시각화 결과](https://public.tableau.com/views/_03_16443067025420/_zip?:language=ko-KR&:retry=yes&:display_count=n&:origin=viz_share_link)**
+![image](https://user-images.githubusercontent.com/93170319/154000898-4585942b-0030-4824-8d0e-a7f2fee25175.png){: width="70%" height="70%"}
+![image](https://user-images.githubusercontent.com/93170319/154000993-00bb4217-8b42-4359-bf35-26b6a07b2269.png){: width="70%" height="70%"}
+
 ---
 ### 데이터 목록
 **[Dacon 제공 데이터]**
